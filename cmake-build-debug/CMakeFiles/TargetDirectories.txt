@@ -1,0 +1,3 @@
+C:/Users/Piotr/Documents/Programming/SFML_Snake/cmake-build-debug/CMakeFiles/SFML_Snake.dir
+C:/Users/Piotr/Documents/Programming/SFML_Snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Piotr/Documents/Programming/SFML_Snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
